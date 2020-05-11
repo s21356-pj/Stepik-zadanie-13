@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8a98a31-60b9-4aa3-bcdb-70d61fb600c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bkjA28KGLmGRSi4OfKp3yQlgtP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Sortowanie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Sortowanie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8a98a31-60b9-4aa3-bcdb-70d61fb600c0" name="Default Changelist" comment="" />
+      <created>1589182838653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589182838653</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589187841345">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1680.1050@0.0.1366.728" timestamp="1589187841345" />
+    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1589186136484">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1680.1050@0.0.1366.728" timestamp="1589186136484" />
+    <state width="1306" height="169" key="GridCell.Tab.0.bottom" timestamp="1589188850356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1050@0.0.1366.728" timestamp="1589188850356" />
+    <state width="1306" height="169" key="GridCell.Tab.0.center" timestamp="1589188850356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1050@0.0.1366.728" timestamp="1589188850356" />
+    <state width="1306" height="169" key="GridCell.Tab.0.left" timestamp="1589188850356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1050@0.0.1366.728" timestamp="1589188850356" />
+    <state width="1306" height="169" key="GridCell.Tab.0.right" timestamp="1589188850356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1050@0.0.1366.728" timestamp="1589188850356" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Circle.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
